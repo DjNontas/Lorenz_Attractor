@@ -36,9 +36,9 @@
       <td>Attractor's points</td>
       <td>Txt file that includes the variables: <br>
         &#8226 t: Time <br>
-        &#8226 x: 1st dimension value <br>
-        &#8226 y: 2nd dimension value <br>
-        &#8226 z: 3rd dimension value <br>
+        &#8226 x: 1st dimension <br>
+        &#8226 y: 2nd dimension <br>
+        &#8226 z: 3rd dimension <br>
         for 100000 points of Lorenz Attractor</td>
       <td>https://raw.githubusercontent.com/DjNontas/Lorenz_Attractor/main/lorenz.txt</td>
     </tr>
