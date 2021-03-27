@@ -1,14 +1,17 @@
 # X - Z
 
 ![alt text](https://github.com/DjNontas/Lorenz_Attractor/blob/main/Images/X-Z.png)
+<br>
 
 # Y - X
 
 ![alt text](https://github.com/DjNontas/Lorenz_Attractor/blob/main/Images/Y-X.png)
+<br>
 
 # Y - Z
 
 ![alt text](https://github.com/DjNontas/Lorenz_Attractor/blob/main/Images/Y-Z.png)
+<br>
 
 # Files
 
@@ -23,7 +26,10 @@
   <tbody>
     <tr>
       <td>R code</td>
-      <td>The R code includes: Lorenz System function, plots, and import to txt</td>
+      <td>The R code includes:<br>
+        Lorenz System function<br>
+        plots<br>
+        import to txt</td>
       <td>https://github.com/DjNontas/Lorenz_Attractor/blob/main/Lorenz.R</td>
     </tr>
     <tr>
