@@ -1,6 +1,3 @@
-# Lorenz_Attractor
-dfef
-
 # X - Z
 
 ![alt text](https://github.com/DjNontas/Lorenz_Attractor/blob/main/Images/X-Z.png)
