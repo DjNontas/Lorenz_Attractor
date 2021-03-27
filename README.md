@@ -27,9 +27,9 @@
     <tr>
       <td>R code</td>
       <td>The R code includes:<br>
-        Lorenz System function<br>
-        plots<br>
-        import to txt</td>
+        &#8226 Lorenz System function<br>
+        &#8226 Plots<br>
+        &#8226 Export to txt</td>
       <td>https://github.com/DjNontas/Lorenz_Attractor/blob/main/Lorenz.R</td>
     </tr>
     <tr>
