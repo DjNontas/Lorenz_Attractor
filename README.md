@@ -36,7 +36,7 @@
       <td>Attractor's points</td>
       <td>Txt file that includes the variables: <br>
         &#8226 t: Time <br>
-        &#8226 (x, y, z): The values of the 3D point.
+        &#8226 (x, y, z): The values of the 3D point<br>
         for 100000 points of Lorenz Attractor</td>
       <td>https://raw.githubusercontent.com/DjNontas/Lorenz_Attractor/main/lorenz.txt</td>
     </tr>
