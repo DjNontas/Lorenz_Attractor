@@ -1,14 +1,12 @@
-# X - Z
+# Phase Portraits
 
 ![alt text](https://github.com/DjNontas/Lorenz_Attractor/blob/main/Images/X-Z.png)
 <br>
 
-# Y - X
 
 ![alt text](https://github.com/DjNontas/Lorenz_Attractor/blob/main/Images/Y-X.png)
 <br>
 
-# Y - Z
 
 ![alt text](https://github.com/DjNontas/Lorenz_Attractor/blob/main/Images/Y-Z.png)
 <br>
