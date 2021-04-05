@@ -1,7 +1,7 @@
 # Lorenz Attractor
-<html>
-  https://raw.githubusercontent.com/DjNontas/Lorenz_Attractor/main/Lorenz_Attractor.html
- </html>
+
+![alt text](https://github.com/DjNontas/Lorenz_Attractor/blob/main/Images/Attractor.png)
+<br>
 
 # Phase Portraits
 
